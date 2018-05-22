@@ -6,6 +6,7 @@ C#知っていれば結構書ける（ローカルでは）
 AtCoderではLinq(Select)使えないっぽい？  
 ToListとかも使えないっぽい  
 for eachの型省略してもローカルのだとエラー出なかったけどAtCoderではコンパイルエラーでる  
-あとはバージョンが古いせいかもしれないけど遅いすごく遅い  
+あとはバージョンが古いせいかもしれないけど遅い  
+遅いというよりなんか起きてそう  
 [abc094 C TLEしてみた](https://abc094.contest.atcoder.jp/submissions/all?task_screen_name=arc095_a&language_screen_name=vbnc_4.2.2.30&status=TLE)  
   
