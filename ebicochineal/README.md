@@ -9,4 +9,6 @@ for eachの型省略してもローカルのだとエラー出なかったけど
 あとはバージョンが古いせいかもしれないけど遅い  
 遅いというよりなんか起きてそう  
 [abc094 C TLEしてみた](https://abc094.contest.atcoder.jp/submissions/all?task_screen_name=arc095_a&language_screen_name=vbnc_4.2.2.30&status=TLE)  
-  
+[agc024 A WA](https://agc024.contest.atcoder.jp/submissions/2548261)  
+[agc024 A WA](https://agc024.contest.atcoder.jp/submissions/2549224)  
+[agc024 A AC](https://agc024.contest.atcoder.jp/submissions/2549215)  
