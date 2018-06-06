@@ -11,7 +11,7 @@ C#知っていれば結構書ける（ローカルでは）
 [abc094 C TLEしてみた](https://abc094.contest.atcoder.jp/submissions/all?task_screen_name=arc095_a&language_screen_name=vbnc_4.2.2.30&status=TLE)  
 [abc094 C AC](https://abc094.contest.atcoder.jp/submissions/2551524)  
 ローカルではC#とかわらない速度が出ていたけどAtCoderでは４倍くらい時間かかった  
-TLEの原因は配列を変数に入れるときに型を書かなかったことでこれをInt.Parseするとローカルの環境の１００倍近く遅くなった  
+TLEの原因は配列を変数に入れるときに型を書かなかったことでObject型になってこれをInt.Parseするとローカルの環境の１００倍近く遅くなった  
 #### Long型をModするとなんかWAになる自分で書いた方がよさそう  
 [agc024 A WA](https://agc024.contest.atcoder.jp/submissions/2548261)  
 [agc024 A WA](https://agc024.contest.atcoder.jp/submissions/2549224)  
